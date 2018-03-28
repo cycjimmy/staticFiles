@@ -1,6 +1,0 @@
-# Static Files
-Static file storage for test
-
-* dir:
-  * media: https://raw.githubusercontent.com/cycjimmy/staticFiles/storage/media/...
-  * images: https://raw.githubusercontent.com/cycjimmy/staticFiles/storage/images/...
